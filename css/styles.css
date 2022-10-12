@@ -1,0 +1,36 @@
+.hide {
+    display: none;
+}
+
+.start {
+    text-align: center;
+    background-color: green;
+
+
+}
+.button {
+    background-color: red;
+    font-style: circle;
+
+}
+#start {
+    background-color: yellow;
+    size: 10px;
+    padding: 10px;
+    style: round;
+    cursor: pointer;
+    border-radius: rounded;
+    
+
+}
+
+
+
+.choice {
+    background-color: orange;
+
+}
+.timer{
+    font-size: 30px;
+
+}
